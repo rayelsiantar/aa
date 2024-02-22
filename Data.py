@@ -49,8 +49,8 @@ class Data:
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
 
  • Creator: @{}
- • Framework: <a href='https://t.me/saintkiraa/'>@saintkiraa</a>
- • Source Code: <a href='https://t.me/saintkiraa/'>@saintkiraa</a>
+ • Framework: <a href='https://t.me/cgrtsexxx/'>@cgrtsexxx</a>
+ • Source Code: <a href='https://t.me/cgrtsexxx/'>@cgrtsexxx</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/saintkiraa/'>@saintkiraa</a>
+👨‍💻 Develoved by </b><a href='https://t.me/cgrtsexxx/'>@cgrtsexxx</a>
 """
