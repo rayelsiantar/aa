@@ -52,5 +52,5 @@ class Data:
  • Framework: <a href='https://t.me/mysticmoonnn'>@mysticmoonnn</a>
  • Source Code: <a href='https://t.me/mysticmoonnn'>@mysticmoonnn</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/cgrtsexxx/'>@cgrtsexxx</a>
+👨‍💻 Develoved by </b><a href='https://t.me/mysticmoonnn'>@mysticmoonnn</a>
 """
